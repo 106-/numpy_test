@@ -20,3 +20,6 @@ real 413.10
 user 412.99
 sys 0.04
 ```
+
+# スライド
+[slideshare](https://www.slideshare.net/__106__/numpy-120102888)
